@@ -1,0 +1,3005 @@
+{
+  "format": "meu-financeiro-c6-v1",
+  "invoices": [
+    {
+      "month": "2026-09",
+      "total": 7393.16,
+      "transactions": [
+        {
+          "date": "2026-08-29",
+          "description": "Anuidade Diferenciada - Parcela 7/12",
+          "value": 98.0,
+          "installment": 7,
+          "installments": 12
+        },
+        {
+          "date": "2026-08-29",
+          "description": "Estorno Tarifa - Estorno",
+          "value": -98.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2025-11-16",
+          "description": "VIVARA BOT - Parcela 10/10",
+          "value": 569.5,
+          "installment": 10,
+          "installments": 10
+        },
+        {
+          "date": "2026-02-03",
+          "description": "AZUL SEGUROS - Parcela 7/10",
+          "value": 161.72,
+          "installment": 7,
+          "installments": 10
+        },
+        {
+          "date": "2026-05-06",
+          "description": "MP *BALDDORIA - Parcela 4/6",
+          "value": 53.91,
+          "installment": 4,
+          "installments": 6
+        },
+        {
+          "date": "2026-05-06",
+          "description": "NUV*GIRINOS - Parcela 4/4",
+          "value": 57.47,
+          "installment": 4,
+          "installments": 4
+        },
+        {
+          "date": "2026-05-31",
+          "description": "PG *TEMBICI - Parcela 4/12",
+          "value": 23.49,
+          "installment": 4,
+          "installments": 12
+        },
+        {
+          "date": "2026-07-04",
+          "description": "UNIVERSAL ASSISTANCE - Parcela 2/12",
+          "value": 38.06,
+          "installment": 2,
+          "installments": 12
+        },
+        {
+          "date": "2026-07-06",
+          "description": "VANS GARCIA DAVILLA - Parcela 2/6",
+          "value": 193.32,
+          "installment": 2,
+          "installments": 6
+        },
+        {
+          "date": "2026-08-02",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 79.95,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-02",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 14.94,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-02",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 39.97,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-02",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 22.06,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-03",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 31.97,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-03",
+          "description": "MODOVO CHOPERIA EIRELI",
+          "value": 140.03,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-03",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 22.94,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-04",
+          "description": "OMEGA DISTRIBUIDORA",
+          "value": 46.64,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-04",
+          "description": "NUV*KOZZE",
+          "value": 199.03,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-04",
+          "description": "ZONA SUL FL 47",
+          "value": 190.67,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-05",
+          "description": "AMAZONMKTPLC*AMANDASAN",
+          "value": 65.64,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-05",
+          "description": "ZONA SUL FL 47",
+          "value": 31.18,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-05",
+          "description": "BANCAS E CONVENIENCIA",
+          "value": 17.75,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-07",
+          "description": "AIRBNB * HMFWHEKX5P",
+          "value": 298.3,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-07",
+          "description": "BUS SERVICOS*CLICKBUS",
+          "value": 171.59,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-07",
+          "description": "BUS SERVICOS*CLICKBUS",
+          "value": 167.99,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-07",
+          "description": "KILOAKI DO CATETE LTDA",
+          "value": 75.22,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-07",
+          "description": "BANCAS E CONVENIENCIA",
+          "value": 17.75,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-07",
+          "description": "PARAISO L LANCHONETE L",
+          "value": 56.76,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-07",
+          "description": "COMBUCI",
+          "value": 40.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-07",
+          "description": "SBS LOUREIRO LAVANDERI",
+          "value": 81.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-07",
+          "description": "ZONA SUL FL 47",
+          "value": 69.3,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-07",
+          "description": "CASA MILA",
+          "value": 160.16,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-07",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 21.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-08",
+          "description": "ANA MAGDA STORE",
+          "value": 16.8,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-08",
+          "description": "TUTTI LANCHES",
+          "value": 23.5,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-08",
+          "description": "LUCIANOALEXDA",
+          "value": 17.37,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-08",
+          "description": "GABRIELHENRIQUEDE",
+          "value": 16.75,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-09",
+          "description": "PADARIA TOP",
+          "value": 14.83,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-09",
+          "description": "WF MAGAZINE",
+          "value": 7.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-09",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 32.44,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-09",
+          "description": "IFD*28.615.552 BRUNO D",
+          "value": 36.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-10",
+          "description": "AMAZONPRIMEBR",
+          "value": 19.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-10",
+          "description": "BANCAS E CONVENIENCIA",
+          "value": 17.75,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-11",
+          "description": "IFD*63.955.155 GIOVANN",
+          "value": 56.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-12",
+          "description": "BANCAS E CONVENIENCIA",
+          "value": 17.75,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-14",
+          "description": "ZONA SUL FL 47",
+          "value": 32.96,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-14",
+          "description": "BANCA DO ALEXANDRE",
+          "value": 47.75,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-14",
+          "description": "CHURRASCODOMINEIR",
+          "value": 42.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-14",
+          "description": "ECOVIAS PONTE",
+          "value": 6.6,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-14",
+          "description": "BARTHO BEER",
+          "value": 13.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-15",
+          "description": "BARTHO BEER",
+          "value": 13.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-15",
+          "description": "OPENAI *CHATGPT SUBSCR SA",
+          "value": 3.85,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-15",
+          "description": "OPENAI *CHATGPT SUBSCR SA",
+          "value": 109.94,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-16",
+          "description": "MP *FREDBIER",
+          "value": 24.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-16",
+          "description": "IFD*2001 RESTAURANTE E",
+          "value": 58.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-16",
+          "description": "ZONA SUL FL 47",
+          "value": 22.58,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-17",
+          "description": "APPLE.COM/BILL",
+          "value": 19.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-17",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 17.97,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-17",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 12.95,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-17",
+          "description": "SHOPPING DAS FRUTAS CA",
+          "value": 5.99,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-17",
+          "description": "BANCAS E CONVENIENCIA",
+          "value": 17.75,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-18",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 18.71,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-18",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 20.93,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-18",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 22.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-19",
+          "description": "FROGPAY*DIAMOND CONSUL",
+          "value": 40.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-19",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 20.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-19",
+          "description": "ZONA SUL FL 47",
+          "value": 120.63,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-19",
+          "description": "BANCAS E CONVENIENCIA",
+          "value": 22.75,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-20",
+          "description": "APPLE.COM/BILL",
+          "value": 34.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-20",
+          "description": "SUA ACADEMIA",
+          "value": 149.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-21",
+          "description": "METRO RJ",
+          "value": 7.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-21",
+          "description": "MP *HIAGOLUIX",
+          "value": 21.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-21",
+          "description": "LEBLONBEACH",
+          "value": 3.8,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-21",
+          "description": "BARRACA DA CRISTINA",
+          "value": 88.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-21",
+          "description": "METRO RJ",
+          "value": 7.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-21",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 18.96,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-21",
+          "description": "MAD BURGER",
+          "value": 73.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-21",
+          "description": "BOM DE COPO BOTAFOGO",
+          "value": 38.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-21",
+          "description": "CARLOSALBERTO",
+          "value": 20.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "SARREUFATACO",
+          "value": 20.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 19.95,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "METRO RJ",
+          "value": 7.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "METRO RJ",
+          "value": 7.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "METRO RJ",
+          "value": 7.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "DEMI",
+          "value": 103.04,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 14.99,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 10.95,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "MP *SHUK",
+          "value": 70.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "METRO RJ",
+          "value": 7.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 18.96,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "BANCAS E CONVENIENCIA",
+          "value": 42.75,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "GALETO SAT S",
+          "value": 114.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 28.94,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "BECO DA CULTURA RJ",
+          "value": 10.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "BECO DA CULTURA RJ",
+          "value": 14.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "BECO DA CULTURA RJ",
+          "value": 16.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-22",
+          "description": "BECO DA CULTURA RJ",
+          "value": 16.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-23",
+          "description": "BECO DA CULTURA RJ",
+          "value": 16.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-23",
+          "description": "BECO DA CULTURA RJ",
+          "value": 16.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-23",
+          "description": "BECO DA CULTURA RJ",
+          "value": 16.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-23",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 26.99,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-23",
+          "description": "IFD*ANDO COMERCIO DE A",
+          "value": 83.25,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-23",
+          "description": "MARIENELUCIADOS",
+          "value": 10.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-23",
+          "description": "49418970JOAO",
+          "value": 18.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-23",
+          "description": "ANA GABI",
+          "value": 42.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-23",
+          "description": "ARMAZEM BEER",
+          "value": 15.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-23",
+          "description": "PAROQUIA DA CATEDRAL",
+          "value": 2.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-23",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 17.06,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-23",
+          "description": "LABUTA",
+          "value": 57.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-23",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 16.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-24",
+          "description": "MP *BARBEARIAEDNA",
+          "value": 45.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-24",
+          "description": "DROGARIA VENANCIO",
+          "value": 62.99,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-24",
+          "description": "ZONA SUL FL 47",
+          "value": 64.34,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-24",
+          "description": "BANCAS E CONVENIENCIA",
+          "value": 17.75,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-25",
+          "description": "NETFLIX.COM",
+          "value": 44.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-27",
+          "description": "BANCAS E CONVENIENCIA",
+          "value": 17.75,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-27",
+          "description": "METRO RJ",
+          "value": 7.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-27",
+          "description": "MAD BURGER",
+          "value": 70.3,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-28",
+          "description": "SOS BAR E RESTAURANTE",
+          "value": 98.45,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-28",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 13.96,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-28",
+          "description": "SABOR TERAPIA",
+          "value": 87.31,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-28",
+          "description": "SABOR TERAPIA",
+          "value": 9.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-29",
+          "description": "KILOAKI DO CATETE LTDA",
+          "value": 74.36,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-29",
+          "description": "GELATERIA CALEBITO",
+          "value": 23.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-29",
+          "description": "BAR DO OMAR",
+          "value": 30.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-30",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 24.99,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-30",
+          "description": "PADARIA GRAN RIO",
+          "value": 32.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-30",
+          "description": "ESQUINA DA CACHACA",
+          "value": 44.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-30",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 47.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-30",
+          "description": "BANCA 2 DE DEZEMBRO",
+          "value": 17.75,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-30",
+          "description": "VALORI *ZUZA DE BUZIOS",
+          "value": 175.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-30",
+          "description": "GELATERIA CALEBITO",
+          "value": 69.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-30",
+          "description": "IFD*EMPORIO FOOD LEME",
+          "value": 58.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-31",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 18.93,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-31",
+          "description": "GALETO SAT S",
+          "value": 78.85,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-31",
+          "description": "NOVA FARMA DROGARIAS E",
+          "value": 22.44,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-08-31",
+          "description": "SOCIEDADE SECRETA",
+          "value": 15.29,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-01",
+          "description": "CHAVEIRO DIONISIO JR",
+          "value": 30.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-01",
+          "description": "B DEZEMBRO",
+          "value": 17.75,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-01",
+          "description": "ZONA SUL FL 47",
+          "value": 137.91,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-01",
+          "description": "IFD*BUENDIA BUENO E SI",
+          "value": 85.35,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-02",
+          "description": "AUTO POSTO TOP GLORIA",
+          "value": 278.93,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-02",
+          "description": "DM*SPOTIFY",
+          "value": 23.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-02",
+          "description": "SABOR TERAPIA",
+          "value": 62.72,
+          "installment": null,
+          "installments": null
+        }
+      ]
+    },
+    {
+      "month": "2026-10",
+      "total": 6137.87,
+      "transactions": [
+        {
+          "date": "2026-09-29",
+          "description": "Anuidade Diferenciada - Parcela 8/12",
+          "value": 98.0,
+          "installment": 8,
+          "installments": 12
+        },
+        {
+          "date": "2026-02-03",
+          "description": "AZUL SEGUROS - Parcela 8/10",
+          "value": 161.72,
+          "installment": 8,
+          "installments": 10
+        },
+        {
+          "date": "2026-05-06",
+          "description": "MP *BALDDORIA - Parcela 5/6",
+          "value": 53.91,
+          "installment": 5,
+          "installments": 6
+        },
+        {
+          "date": "2026-05-31",
+          "description": "PG *TEMBICI - Parcela 5/12",
+          "value": 23.49,
+          "installment": 5,
+          "installments": 12
+        },
+        {
+          "date": "2026-07-04",
+          "description": "UNIVERSAL ASSISTANCE - Parcela 3/12",
+          "value": 38.06,
+          "installment": 3,
+          "installments": 12
+        },
+        {
+          "date": "2026-07-06",
+          "description": "VANS GARCIA DAVILLA - Parcela 3/6",
+          "value": 193.32,
+          "installment": 3,
+          "installments": 6
+        },
+        {
+          "date": "2026-09-04",
+          "description": "KILOAKI DO CATETE LTDA",
+          "value": 45.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-04",
+          "description": "BANCAS E CONVENIENCIA",
+          "value": 17.75,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-04",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 15.93,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-04",
+          "description": "MAD BURGER",
+          "value": 52.69,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-04",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 14.95,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-05",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 15.93,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-05",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 5.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-05",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 24.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-06",
+          "description": "MLP*NETSHOES-SPORTNOW - Parcela 1/2",
+          "value": 225.0,
+          "installment": 1,
+          "installments": 2
+        },
+        {
+          "date": "2026-09-06",
+          "description": "ZONA SUL FL 47",
+          "value": 174.02,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-06",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 36.94,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-06",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 22.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-07",
+          "description": "IFD*CANECO 2 RESTAURAN",
+          "value": 76.4,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-07",
+          "description": "ZONA SUL FL 47",
+          "value": 28.89,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-07",
+          "description": "BANCAS E CONVENIENCIA",
+          "value": 23.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-08",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 21.93,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-08",
+          "description": "RECANTO DA PEIXADA",
+          "value": 54.66,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-08",
+          "description": "NOVO TEMPO MAJOR WILL.",
+          "value": 24.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-08",
+          "description": "HOTEL EUZEBIOS",
+          "value": 5.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-09",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 16.94,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-09",
+          "description": "HOTEL EUZEBIOS",
+          "value": 5.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-09",
+          "description": "RECANTO DA PEIXADA",
+          "value": 65.49,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-09",
+          "description": "NOVO TEMPO MAJOR WILL.",
+          "value": 31.96,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-10",
+          "description": "AMAZONPRIMEBR",
+          "value": 19.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-10",
+          "description": "HOTEL EUZEBIOS",
+          "value": 5.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-11",
+          "description": "MURAL LIVING",
+          "value": 354.94,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-11",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 12.94,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-11",
+          "description": "DELS DISTRIBUIDORA",
+          "value": 24.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-11",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 17.97,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-11",
+          "description": "SHADIRADIMORAES",
+          "value": 47.3,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-11",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 23.99,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-11",
+          "description": "MP *MEULUGAR",
+          "value": 40.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-12",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 28.99,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-12",
+          "description": "MURAL LIVING",
+          "value": 6.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-12",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 13.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-13",
+          "description": "BANCAS E CONVENIENCIA",
+          "value": 2.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-13",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 21.94,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-13",
+          "description": "SILVA RESTAURANTE BOTA",
+          "value": 185.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-13",
+          "description": "RESTAURANTE E CONFEITA",
+          "value": 75.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-13",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 30.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-14",
+          "description": "ZONA SUL FL 47",
+          "value": 60.11,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-14",
+          "description": "BANCAS E CONVENIENCIA",
+          "value": 17.75,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-15",
+          "description": "OPENAI *CHATGPT SUBSCR SA",
+          "value": 3.81,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-15",
+          "description": "OPENAI *CHATGPT SUBSCR SA",
+          "value": 108.81,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-17",
+          "description": "APPLE.COM/BILL",
+          "value": 19.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-17",
+          "description": "OPENAI* CHATGPT CREDIT SA",
+          "value": 108.45,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-17",
+          "description": "OPENAI* CHATGPT CREDIT SA",
+          "value": 3.8,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-17",
+          "description": "IFD*BUENDIA BUENO E SI",
+          "value": 80.35,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-18",
+          "description": "KILOAKI DO CATETE LTDA",
+          "value": 68.34,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-18",
+          "description": "ARMARINHO IZABEL",
+          "value": 32.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-18",
+          "description": "VERONICA RODRIGUES DA",
+          "value": 11.5,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-19",
+          "description": "KILOAKI DO CATETE LTDA",
+          "value": 26.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-19",
+          "description": "CARIOCAO",
+          "value": 37.94,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-19",
+          "description": "IFD*CHIBA COMERCIO DE",
+          "value": 71.09,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-19",
+          "description": "ZONA SUL FL 47",
+          "value": 112.89,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-19",
+          "description": "BANCA DO ALEXANDRE",
+          "value": 25.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-19",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 38.43,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-20",
+          "description": "VUVUTECO RESTAURANTE",
+          "value": 116.48,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-20",
+          "description": "APPLE.COM/BILL",
+          "value": 34.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-20",
+          "description": "PANIF CONF GRAN RIO",
+          "value": 27.19,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-20",
+          "description": "VACA ATOLADA, A EMBAI",
+          "value": 18.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-20",
+          "description": "MP *FERNANDADEALM",
+          "value": 10.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-20",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 19.28,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-20",
+          "description": "IFD*CANECO 2 RESTAURAN",
+          "value": 120.77,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-20",
+          "description": "SUA ACADEMIA",
+          "value": 149.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-20",
+          "description": "ZONA SUL FL 47",
+          "value": 39.99,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-21",
+          "description": "IFD*28.615.552 BRUNO D",
+          "value": 36.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-22",
+          "description": "ZONA SUL FL 47",
+          "value": 97.94,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-22",
+          "description": "MERCADOLIVRE*MERCADOL",
+          "value": 159.96,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-22",
+          "description": "IFD*LOPES DEFANTI COME",
+          "value": 31.89,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-23",
+          "description": "BANCAS E CONVENIENCIA",
+          "value": 2.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-24",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 19.95,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-25",
+          "description": "ZIG*ZIG",
+          "value": 178.31,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-25",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 21.95,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-25",
+          "description": "NETFLIX.COM",
+          "value": 44.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-25",
+          "description": "KILOAKI DO CATETE LTDA",
+          "value": 65.25,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-25",
+          "description": "BANCAS E CONVENIENCIA",
+          "value": 25.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-25",
+          "description": "METRO RJ",
+          "value": 7.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-25",
+          "description": "CHISLAINEDASILVA",
+          "value": 4.2,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-25",
+          "description": "CHISLAINEDASILVA",
+          "value": 4.2,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-25",
+          "description": "MP *CARLOSDASILVA",
+          "value": 121.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-25",
+          "description": "METRO RJ",
+          "value": 7.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-25",
+          "description": "REGIANE SILVA ARUEIRA",
+          "value": 30.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-25",
+          "description": "IFD*2001 RESTAURANTE E",
+          "value": 124.23,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-25",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 16.97,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-25",
+          "description": "BECO DA CULTURA",
+          "value": 15.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-25",
+          "description": "BECO DA CULTURA",
+          "value": 154.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-26",
+          "description": "BECO DA CULTURA",
+          "value": 15.4,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-26",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 23.06,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-26",
+          "description": "BARRACA URUGUAY (80)",
+          "value": 88.2,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-26",
+          "description": "TORRE DO BARAO",
+          "value": 10.2,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-26",
+          "description": "METRO RJ",
+          "value": 7.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-27",
+          "description": "PADARIA SANTA DE BALTA",
+          "value": 20.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-27",
+          "description": "TABACARIA CATETE",
+          "value": 17.75,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-27",
+          "description": "IFD*28.615.552 BRUNO D",
+          "value": 41.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-27",
+          "description": "GRAN HOTEL",
+          "value": 120.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-27",
+          "description": "VALLE E VALLE SERVICOS",
+          "value": 106.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-27",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 22.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-27",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 1.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-27",
+          "description": "PDL PRODUCOES",
+          "value": 60.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-27",
+          "description": "PDL PRODUCOES",
+          "value": 187.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-28",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 25.94,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-28",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 3.04,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-28",
+          "description": "PWEMP",
+          "value": 41.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-28",
+          "description": "IFD*59.796.770 JONAS T",
+          "value": 69.34,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-29",
+          "description": "SUPERMERCADO DU'BAIRR",
+          "value": 44.34,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-29",
+          "description": "KATIAMACIELVIANA",
+          "value": 63.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-29",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 13.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-29",
+          "description": "WILLIAMCESARDOS",
+          "value": 30.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-29",
+          "description": "EMPORIUM BELEM DOCA",
+          "value": 6.59,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-29",
+          "description": "EMPORIUM BELEM DOCA",
+          "value": 6.59,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-29",
+          "description": "EMPORIUM BELEM DOCA",
+          "value": 6.59,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-30",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 19.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-09-30",
+          "description": "IFD*CRISTOVAO GOMES DO",
+          "value": 68.07,
+          "installment": null,
+          "installments": null
+        }
+      ]
+    },
+    {
+      "month": "2026-11",
+      "total": 10175.23,
+      "transactions": [
+        {
+          "date": "2026-10-28",
+          "description": "Anuidade Diferenciada - Parcela 9/12",
+          "value": 98.0,
+          "installment": 9,
+          "installments": 12
+        },
+        {
+          "date": "2026-02-03",
+          "description": "AZUL SEGUROS - Parcela 9/10",
+          "value": 161.72,
+          "installment": 9,
+          "installments": 10
+        },
+        {
+          "date": "2026-05-06",
+          "description": "MP *BALDDORIA - Parcela 6/6",
+          "value": 53.91,
+          "installment": 6,
+          "installments": 6
+        },
+        {
+          "date": "2026-05-31",
+          "description": "PG *TEMBICI - Parcela 6/12",
+          "value": 23.49,
+          "installment": 6,
+          "installments": 12
+        },
+        {
+          "date": "2026-07-04",
+          "description": "UNIVERSAL ASSISTANCE - Parcela 4/12",
+          "value": 38.06,
+          "installment": 4,
+          "installments": 12
+        },
+        {
+          "date": "2026-07-06",
+          "description": "VANS GARCIA DAVILLA - Parcela 4/6",
+          "value": 193.32,
+          "installment": 4,
+          "installments": 6
+        },
+        {
+          "date": "2026-09-06",
+          "description": "MLP*NETSHOES-SPORTNOW - Parcela 2/2",
+          "value": 224.99,
+          "installment": 2,
+          "installments": 2
+        },
+        {
+          "date": "2026-10-02",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 17.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-02",
+          "description": "GRAN HOTEL",
+          "value": 120.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-02",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 15.97,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-02",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 15.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-02",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 19.88,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-02",
+          "description": "DL*SPOTIFY P478E",
+          "value": 23.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-02",
+          "description": "KILOAKI DO CATETE LTDA",
+          "value": 33.94,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-02",
+          "description": "MACHADO BARBER",
+          "value": 45.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-02",
+          "description": "DROGARIA VENANCIO",
+          "value": 55.42,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-02",
+          "description": "BANCA DO ALEXANDRE",
+          "value": 54.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-02",
+          "description": "ZONA SUL FL 47",
+          "value": 6.99,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-02",
+          "description": "IFD*63.955.155 GIOVANN",
+          "value": 56.51,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-03",
+          "description": "IFD*BARBADOS E BARBUDO",
+          "value": 36.89,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-03",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 18.94,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-03",
+          "description": "MAD BURGER",
+          "value": 51.59,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-03",
+          "description": "BUTECO TREME TREME",
+          "value": 15.4,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-03",
+          "description": "BUTECO TREME TREME",
+          "value": 15.4,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-04",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 23.88,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-04",
+          "description": "DEMI",
+          "value": 108.36,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-04",
+          "description": "CALEBITO",
+          "value": 53.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-04",
+          "description": "IFD*BUENDIA BUENO E SI",
+          "value": 88.35,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-05",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 20.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-05",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 24.92,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-05",
+          "description": "IFD*KEBAB SHOP GN1 COM",
+          "value": 88.77,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-06",
+          "description": "PEGASUS PERICIAS E EXA",
+          "value": 1700.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-06",
+          "description": "MOCELLIN CHURRASCARIA",
+          "value": 219.5,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-06",
+          "description": "PG *NUVEM GIRINOS - Parcela 1/4",
+          "value": 83.98,
+          "installment": 1,
+          "installments": 4
+        },
+        {
+          "date": "2026-10-06",
+          "description": "IFD*CANECO 2 RESTAURAN",
+          "value": 80.77,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-07",
+          "description": "BANCA DA VILMA",
+          "value": 25.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-08",
+          "description": "IFD*28.615.552 BRUNO D",
+          "value": 36.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-09",
+          "description": "OMEGA COMERCIO, SERVIC",
+          "value": 63.06,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-09",
+          "description": "IFD*BORA VACA RESTAURA",
+          "value": 51.3,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-09",
+          "description": "IFD*IGOR BATISTA MAIA",
+          "value": 2.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-09",
+          "description": "APPLE.COM/BILL",
+          "value": 61.59,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-10",
+          "description": "RECANTO DO FLAMENGO",
+          "value": 19.8,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-10",
+          "description": "AMAZONPRIMEBR",
+          "value": 19.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-10",
+          "description": "MARGARETH 17",
+          "value": 160.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-10",
+          "description": "BELMONTE LEME",
+          "value": 289.52,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-10",
+          "description": "METRO RJ",
+          "value": 7.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-10",
+          "description": "METRO RJ",
+          "value": 7.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-10",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 18.97,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-10",
+          "description": "BECO DA CULTURA",
+          "value": 10.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-10",
+          "description": "BECO DA CULTURA",
+          "value": 77.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-10",
+          "description": "BECO DA CULTURA",
+          "value": 28.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-11",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 23.96,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-11",
+          "description": "PANIF CONF GRAN RIO",
+          "value": 27.52,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-11",
+          "description": "IFD*28.615.552 BRUNO D",
+          "value": 60.36,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-11",
+          "description": "THE BOUA - BAR E KARAO",
+          "value": 140.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-11",
+          "description": "FROGWAY*DIAMOND CONSUL",
+          "value": 37.4,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-12",
+          "description": "CARLOSALBERTO",
+          "value": 17.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-12",
+          "description": "BANCA DA VILMA",
+          "value": 25.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-12",
+          "description": "KILOAKI DO CATETE LTDA",
+          "value": 49.42,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-12",
+          "description": "AMARELINHO DA GLORIA",
+          "value": 37.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-12",
+          "description": "RENASCENCACLUBE",
+          "value": 40.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-12",
+          "description": "RENASCENCACLUBE",
+          "value": 150.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-12",
+          "description": "RENATA FERNANDES DE OL",
+          "value": 12.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-12",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 47.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-12",
+          "description": "MP *PIPOCACARIOCA",
+          "value": 8.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-13",
+          "description": "MP *BANCADOEXTRA",
+          "value": 9.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-13",
+          "description": "DROGARIA VENANCIO",
+          "value": 37.99,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-13",
+          "description": "NOVA FARMA DROGARIAS E",
+          "value": 69.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-13",
+          "description": "ZONA SUL FL 47",
+          "value": 64.46,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-13",
+          "description": "IFD*KEBAB SHOP GN1 COM",
+          "value": 31.79,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-15",
+          "description": "OPENAI *CHATGPT SUBSCR SA",
+          "value": 3.72,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-15",
+          "description": "OPENAI *CHATGPT SUBSCR SA",
+          "value": 106.17,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-15",
+          "description": "REST PLANALTO DO FLAME",
+          "value": 175.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-15",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 23.44,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-16",
+          "description": "ZIG*ZIG",
+          "value": 83.28,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-16",
+          "description": "JIM.COM* MHD ADEB NAS",
+          "value": 31.92,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-16",
+          "description": "CLUBEDOBOLINHADIN",
+          "value": 5.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-16",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 20.93,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-16",
+          "description": "BANCA DA VILMA",
+          "value": 35.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-16",
+          "description": "IFD*KEBAB SHOP GN1 COM",
+          "value": 41.95,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-17",
+          "description": "ZONA SUL FL 47",
+          "value": 44.99,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-17",
+          "description": "CHURRASCODOMINEIR",
+          "value": 29.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-17",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 13.93,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-17",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 2.04,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-18",
+          "description": "BECO DA CULTURA",
+          "value": 10.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-18",
+          "description": "BECO DA CULTURA",
+          "value": 46.2,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-18",
+          "description": "BECO DA CULTURA",
+          "value": 30.8,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-18",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 25.51,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-18",
+          "description": "RPGS COMIDA ASIATICA L",
+          "value": 30.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-18",
+          "description": "MP *POINTASIARJ",
+          "value": 40.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-18",
+          "description": "AMARELINHO DA GLORIA",
+          "value": 127.27,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-19",
+          "description": "IFD*28.615.552 BRUNO D",
+          "value": 36.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-20",
+          "description": "APPLE.COM/BILL",
+          "value": 34.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-20",
+          "description": "SUA ACADEMIA",
+          "value": 149.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-20",
+          "description": "IFD*KEBAB SHOP GN1 COM",
+          "value": 42.74,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-21",
+          "description": "HOTEL NOVA ESTRELA LTD",
+          "value": 533.93,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-21",
+          "description": "MP *BARBEARIAEDNA",
+          "value": 45.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-21",
+          "description": "ZONA SUL FL 47",
+          "value": 137.6,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-21",
+          "description": "BANCA DA VILMA",
+          "value": 23.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-23",
+          "description": "KILOAKI DO CATETE LTDA",
+          "value": 26.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-23",
+          "description": "BANCA COCA COLA",
+          "value": 18.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-23",
+          "description": "IFD*BUENDIA BUENO E SI",
+          "value": 74.72,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-23",
+          "description": "CAPIBERIBE 27",
+          "value": 20.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-23",
+          "description": "CRIA ATIVA COMERCIO DE",
+          "value": 71.5,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-24",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 26.99,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-24",
+          "description": "MARINARAQUEL",
+          "value": 31.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-24",
+          "description": "PADARIA GRAN RIO",
+          "value": 21.55,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-24",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 20.42,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-24",
+          "description": "KILOAKI DO CATETE LTDA",
+          "value": 77.33,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-24",
+          "description": "METRO RJ",
+          "value": 7.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-24",
+          "description": "METRO RJ",
+          "value": 7.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-24",
+          "description": "REGIANE SILVA ARUEIRA",
+          "value": 25.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-24",
+          "description": "IFD*KEBAB SHOP GN1 COM",
+          "value": 31.79,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-24",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 17.93,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-24",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 3.05,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-24",
+          "description": "LISBOA VINI EVENTOS",
+          "value": 60.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-24",
+          "description": "LISBOA VINI EVENTOS",
+          "value": 14.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-25",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 28.97,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-25",
+          "description": "IFD*ANDO COMERCIO DE A",
+          "value": 59.53,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-25",
+          "description": "NETFLIX.COM",
+          "value": 44.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-25",
+          "description": "IFD*CANECO 2 RESTAURAN",
+          "value": 77.64,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-25",
+          "description": "OBOTECOGLORIA",
+          "value": 22.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-25",
+          "description": "MP *BARRACADOMARC",
+          "value": 26.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-25",
+          "description": "RONALDOBEBIDA",
+          "value": 24.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-26",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 48.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-26",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 8.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-26",
+          "description": "IFD*HB EXPRESS COMERCI",
+          "value": 66.8,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-26",
+          "description": "ZONA SUL FL 47",
+          "value": 110.41,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-27",
+          "description": "AMAZON SERVICOS DE VAR",
+          "value": 0.99,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-27",
+          "description": "MP *BANCADOEXTRA",
+          "value": 37.8,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-27",
+          "description": "DROGARIA VENANCIO",
+          "value": 5.07,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-27",
+          "description": "IFD*KEBAB SHOP GN1 COM",
+          "value": 22.89,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-29",
+          "description": "GOL LINHAS A*GJXJPR015",
+          "value": 10.53,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-29",
+          "description": "OMEGA COMERCIO, SERVIC",
+          "value": 67.41,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-29",
+          "description": "DROGARIA VENANCIO",
+          "value": 49.99,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-29",
+          "description": "IFD*GIGA PITADA BURGUE",
+          "value": 42.95,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-30",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 75.88,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-30",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 50.95,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-30",
+          "description": "CHURRASCARIA NOVA ESTR",
+          "value": 83.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-30",
+          "description": "IFD*57.158.233 LUCAS P",
+          "value": 52.78,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-30",
+          "description": "HOTEL DUNAMY*VMT*HOTEL",
+          "value": 5.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-31",
+          "description": "CHURRASCARIA NOVA ESTR",
+          "value": 110.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-31",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 13.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-31",
+          "description": "BARNE S TABACARIA",
+          "value": 38.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-31",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 9.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-31",
+          "description": "SUPERMERCADO AGRICER",
+          "value": 57.48,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-10-31",
+          "description": "LMSDISTRIBUICAO",
+          "value": 45.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-11-01",
+          "description": "ROBERTOALEXANDRE",
+          "value": 25.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-11-01",
+          "description": "ESPACO CENTRAL EVENTOS",
+          "value": 17.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-11-01",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 51.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-11-01",
+          "description": "HOTEL DUNAMY*VMT*HOTEL",
+          "value": 5.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-11-01",
+          "description": "DUSSELDORF COMERCIO",
+          "value": 205.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-11-01",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 22.99,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-11-01",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 48.98,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-11-01",
+          "description": "UBER UBER *TRIP HELP.U",
+          "value": 65.95,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-11-02",
+          "description": "KILOAKI DO CATETE LTDA",
+          "value": 26.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-11-02",
+          "description": "DL*SPOTIFY P48BD",
+          "value": 23.9,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-11-02",
+          "description": "MARIOMARTINSDE",
+          "value": 20.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-11-02",
+          "description": "MARIOMARTINSDE",
+          "value": 100.0,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-11-02",
+          "description": "ATLANTICA ALIMENTACAO",
+          "value": 96.05,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-11-02",
+          "description": "DELICATESSEN CATETE EI",
+          "value": 25.7,
+          "installment": null,
+          "installments": null
+        },
+        {
+          "date": "2026-11-02",
+          "description": "BANCA DA VILMA",
+          "value": 2.0,
+          "installment": null,
+          "installments": null
+        }
+      ]
+    }
+  ]
+}
